@@ -15,4 +15,4 @@ weight = 6
 
 +++
 
-My CV is available as a [PDF](cv/cv.pdf).
+Available as a [PDF](cv/cv.pdf).
